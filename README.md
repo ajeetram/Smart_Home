@@ -5,11 +5,12 @@ When a person gives a voice command through Google Assistant, the command is con
 Also, it shows that if anybody enters the room, the PIR motion sensor detects the movement and turns on the LED light. After turning on the light, if there is no movement for 5 minutes, the light is automatically turned off.
 
 # Advantages
-- The proposed solution is low-cost and easy to use.
-- The proposed solution ensures secure identification and authentication of users.
+
+- Embed a speech control interface for controlling the electrical appliances for physically challenged people.
+- Low-cost and easy to install  and configure.
 - Fire detection capability to identify fire hazards and promptly send notifications through
 Blynk cloud service, enhancing safety measures.
-- This system contains a backup plan for unlocking doors in case any network failure occurs. This system has a backup push button that can be used to unlock doors during a network failure or any emergency situation.
+
 
 #  Components/Skills Required
 - Node MCU ESP8266
